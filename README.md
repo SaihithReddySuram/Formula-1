@@ -39,4 +39,4 @@ Monitor pipeline execution in ADF Monitoring.
 
 Query processed data using Databricks SQL.
 
-https://adb-4018443758320461.1.azuredatabricks.net/browse/folders/2397766008898624?o=4018443758320461
+https://adb-4018443758320461.1.azuredatabricks.net/browse/folders/home?addGit=&o=4018443758320461&gitUrl=https%3A%2F%2Fgithub.com%2FSaihithReddySuram%2FFormula-1.git&gitProvider=gitHub
